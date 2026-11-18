@@ -1,0 +1,46 @@
+Feature,Coefficient,Absolute_Importance,Direction
+num__tenure,-1.1235888074254843,1.1235888074254843,Lower churn tendency
+cat__Contract_Two year,-0.7812566697491463,0.7812566697491463,Lower churn tendency
+cat__InternetService_Fiber optic,0.7053364815540637,0.7053364815540637,Higher churn tendency
+num__MonthlyCharges,-0.663581370388866,0.663581370388866,Lower churn tendency
+cat__Contract_Month-to-month,0.663398811347562,0.663398811347562,Higher churn tendency
+cat__InternetService_DSL,-0.6210094851777699,0.6210094851777699,Lower churn tendency
+num__TotalCharges,0.4572105464813513,0.4572105464813513,Higher churn tendency
+cat__StreamingMovies_Yes,0.2749783925261089,0.2749783925261089,Higher churn tendency
+cat__DeviceProtection_No internet service,-0.27456847321541733,0.27456847321541733,Lower churn tendency
+cat__InternetService_No,-0.27456847321541733,0.27456847321541733,Lower churn tendency
+cat__OnlineSecurity_No internet service,-0.27456847321541733,0.27456847321541733,Lower churn tendency
+cat__TechSupport_No internet service,-0.27456847321541733,0.27456847321541733,Lower churn tendency
+cat__StreamingTV_No internet service,-0.27456847321541733,0.27456847321541733,Lower churn tendency
+cat__OnlineBackup_No internet service,-0.27456847321541733,0.27456847321541733,Lower churn tendency
+cat__StreamingMovies_No internet service,-0.27456847321541733,0.27456847321541733,Lower churn tendency
+cat__PaperlessBilling_No,-0.26336459585446775,0.26336459585446775,Lower churn tendency
+cat__StreamingTV_Yes,0.26203759369893787,0.26203759369893787,Higher churn tendency
+cat__PaymentMethod_Electronic check,0.23880521999293408,0.23880521999293408,Higher churn tendency
+cat__MultipleLines_No,-0.21341528900824916,0.21341528900824916,Lower churn tendency
+cat__Dependents_Yes,-0.20910284400918286,0.20910284400918286,Lower churn tendency
+cat__OnlineSecurity_No,0.19785627732894778,0.19785627732894778,Higher churn tendency
+cat__StreamingMovies_No,-0.1906513961498169,0.1906513961498169,Lower churn tendency
+cat__StreamingTV_No,-0.17771059732263156,0.17771059732263156,Lower churn tendency
+cat__PaymentMethod_Bank transfer (automatic),-0.16409157694090823,0.16409157694090823,Lower churn tendency
+cat__TechSupport_No,0.16378492524519123,0.16378492524519123,Higher churn tendency
+cat__PaymentMethod_Credit card (automatic),-0.160565927508644,0.160565927508644,Lower churn tendency
+cat__MultipleLines_Yes,0.13255631111642532,0.13255631111642532,Higher churn tendency
+cat__OnlineSecurity_Yes,-0.11352928095264682,0.11352928095264682,Lower churn tendency
+cat__gender_Female,-0.11133906621004629,0.11133906621004629,Lower churn tendency
+cat__PhoneService_No,-0.10938249894729225,0.10938249894729225,Lower churn tendency
+cat__MultipleLines_No phone service,-0.10938249894729225,0.10938249894729225,Lower churn tendency
+cat__PaymentMethod_Mailed check,-0.10438919238249685,0.10438919238249685,Lower churn tendency
+cat__Partner_No,-0.10301050530599698,0.10301050530599698,Lower churn tendency
+cat__Partner_Yes,-0.0872309715331278,0.0872309715331278,Lower churn tendency
+cat__PhoneService_Yes,-0.08085897789181973,0.08085897789181973,Lower churn tendency
+cat__TechSupport_Yes,-0.07945792886890037,0.07945792886890037,Lower churn tendency
+cat__gender_Male,-0.07890241062907172,0.07890241062907172,Lower churn tendency
+cat__DeviceProtection_Yes,0.0740165966779834,0.0740165966779834,Higher churn tendency
+cat__PaperlessBilling_Yes,0.07312311901535005,0.07312311901535005,Higher churn tendency
+cat__Contract_One year,-0.07238361843751402,0.07238361843751402,Lower churn tendency
+cat__OnlineBackup_No,0.06847979291978726,0.06847979291978726,Higher churn tendency
+num__SeniorCitizen,0.057141071987738254,0.057141071987738254,Higher churn tendency
+cat__Dependents_No,0.018861367170066753,0.018861367170066753,Higher churn tendency
+cat__OnlineBackup_Yes,0.01584720345652002,0.01584720345652002,Higher churn tendency
+cat__DeviceProtection_No,0.01031039969830884,0.01031039969830884,Higher churn tendency
